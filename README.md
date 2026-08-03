@@ -273,10 +273,6 @@ A web application for managing personal finances with expense tracking, budget m
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/devutkarshh" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-
 <a href="https://leetcode.com/devutkarshh" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
 </a>&nbsp;&nbsp;
