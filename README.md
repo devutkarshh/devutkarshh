@@ -115,16 +115,6 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devutkarshh&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=15&column=4"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ## ♻️ EcoByte — Smart E-Waste Management System
