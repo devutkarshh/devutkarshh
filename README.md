@@ -271,12 +271,25 @@ A web application for managing personal finances with expense tracking, budget m
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/devutkarshmishra">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/devutkarshmishra" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/devutkarshh" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/devutkarshh" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/utkarshm14/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:utkarshm848@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devutkarshh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkarshm14/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshm848@gmail.com)
 
 </div>
 
