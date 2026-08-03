@@ -12,23 +12,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=flat-square&color=00D4FF"/>
 
+<br>
+
+<img src="https://img.shields.io/github/followers/devutkarshh?style=flat-square&logo=github&label=Followers&color=00D4FF"/>
+
+<img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=flat-square&label=Profile%20Updated&color=00C853"/>
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-Computer Science (AI & ML) undergraduate passionate about building **backend systems**, **full-stack applications**, and **AI-powered solutions**.
+Computer Science (AI & ML) student passionate about building **backend systems**, **full-stack applications**, and **AI-powered solutions**.
 
-I enjoy solving real-world problems through software engineering, machine learning, and modern backend development while continuously learning new technologies.
+I enjoy transforming ideas into practical software, solving real-world problems through modern software engineering, machine learning, and scalable backend development while continuously learning new technologies.
 
 ### 🔬 Focus Areas
 
-- 🤖 **AI & Machine Learning** — Intelligent applications, predictive analytics, computer vision
-- ☕ **Java & Backend Development** — REST APIs, scalable backend systems, authentication
-- 🌐 **Full-Stack Development** — React, Next.js, Flask, Node.js
-- 💻 **Data Structures & Algorithms** — Competitive programming & problem solving
-- ☁️ **System Design** — Software architecture and scalable applications
+- ☕ **Java Development** — Object-Oriented Programming, backend development, and scalable applications
+- 🏗️ **Backend Engineering** — REST APIs, authentication, databases, and system architecture
+- 🤖 **AI & Machine Learning** — Intelligent applications, predictive analytics, and computer vision
+- 🌐 **Full-Stack Development** — React, Next.js, Flask, and Node.js
+- 💻 **Data Structures & Algorithms** — Problem solving and competitive programming
+- ☁️ **System Design** — Building scalable and maintainable software systems
+- 🌍 **Open Source** — Learning through collaboration and contributing to the developer community
 
 ---
 
