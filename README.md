@@ -93,33 +93,11 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 ---
 
-# 📈 GitHub Summary
+# 📝 GitHub Summary
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-
-<br><br>
-
-<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-
-<br><br>
-
-<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devutkarshh&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
 </div>
 
