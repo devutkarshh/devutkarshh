@@ -216,6 +216,9 @@ A web application for managing personal finances with expense tracking, budget m
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://personalbudgettracker.vercel.app/)
 
 </div>
+
+---
+
 # 💡 Currently Learning
 
 <div align="center">
