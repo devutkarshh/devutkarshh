@@ -16,30 +16,31 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Computer Science (AI & ML) student passionate about building **full-stack applications**, **backend systems**, and **AI-powered solutions**. I enjoy solving real-world problems through software engineering, machine learning, and continuous learning.
+Computer Science (AI & ML) student passionate about building **full-stack applications**, **backend systems**, and **AI-powered solutions**. I enjoy solving real-world problems through software engineering, machine learning, and continuously exploring new technologies.
 
 ### 🔬 Focus Areas
 
-* 🤖 **AI & Machine Learning** — Intelligent applications, deep learning, computer vision
-* 🏗️ **Backend Development** — REST APIs, databases, scalable architectures
+* 🤖 **AI & Machine Learning** — Intelligent applications, computer vision, predictive analytics
+* 🏗️ **Backend Development** — REST APIs, databases, authentication, and scalable architectures
 * 💻 **Data Structures & Algorithms** — Problem solving and competitive programming
 * 🌐 **Full-Stack Development** — React, Next.js, Flask, Node.js
-* ☁️ **System Design** — Modern software architecture and scalable applications
+* ☁️ **System Design** — Modern software architecture and distributed systems
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white\&labelColor=1a1a1a)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white\&labelColor=1a1a1a)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=1a1a1a)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white\&labelColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white\&labelColor=1a1a1a)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=1a1a1a)
 
 ### 🤖 AI / Machine Learning
@@ -47,6 +48,7 @@ Computer Science (AI & ML) student passionate about building **full-stack applic
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white\&labelColor=1a1a1a)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white\&labelColor=1a1a1a)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white\&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white\&labelColor=1a1a1a)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white\&labelColor=1a1a1a)
 
 ### 🌐 Web Development
@@ -58,21 +60,24 @@ Computer Science (AI & ML) student passionate about building **full-stack applic
 
 ### 💾 Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=1a1a1a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=1a1a1a)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white\&labelColor=1a1a1a)
 
 ### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=1a1a1a)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=1a1a1a)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white\&labelColor=1a1a1a)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white\&labelColor=1a1a1a)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black\&labelColor=1a1a1a)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white\&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-# 📊 GitHub Activity & Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -92,35 +97,35 @@ Computer Science (AI & ML) student passionate about building **full-stack applic
 
 ---
 
-# 🎯 Featured Projects
+# 🚀 Featured Projects
 
 ## ♻️ EcoByte — Smart E-Waste Management System
 
-A centralized platform for managing, tracking, and recycling electronic waste with intelligent analytics.
+A centralized platform for managing, tracking, and recycling electronic waste for institutions.
 
 **Highlights**
 
-* QR-code asset tracking
-* ML-based price prediction
-* Analytics dashboard
+* QR code–based asset tracking
+* ML-powered price prediction
 * Compliance reporting
+* Interactive analytics dashboard
 
 **Tech Stack**
 
 `Python` • `Flask` • `SQLite` • `Scikit-Learn` • `Chart.js`
 
-🌐 **Live:** https://eco-byte.onrender.com/
+🌐 **Live Demo:** https://eco-byte.onrender.com/
 
 ---
 
 ## 🎨 DrawSync — Collaborative Drawing Application
 
-A real-time collaborative whiteboard supporting multiple users.
+A real-time collaborative whiteboard supporting multiple users with live synchronization.
 
 **Highlights**
 
-* Real-time synchronization
 * Infinite canvas
+* Real-time collaboration
 * Zoom & pan
 * WebSocket communication
 
@@ -149,19 +154,20 @@ Machine learning pipeline for predicting lithium-ion battery Remaining Useful Li
 
 ## 💰 Personal Budget Tracker
 
-Expense tracking application with analytics and budget visualization.
+A web application for managing expenses, tracking budgets, and visualizing spending.
 
 **Highlights**
 
-* Expense management
-* Budget tracking
-* Interactive charts
+* Expense tracking
+* Budget management
+* Interactive analytics dashboard
+* Responsive interface
 
-🌐 **Live:** https://personalbudgettracker.vercel.app/
+🌐 **Live Demo:** https://personalbudgettracker.vercel.app/
 
 ---
 
-# 💡 Currently Exploring
+# 💡 Currently Learning
 
 <div align="center">
 
@@ -202,7 +208,7 @@ Expense tracking application with analytics and budget visualization.
 
 ## 🤝 Open to Collaboration
 
-Interested in **Open Source**, **AI & Machine Learning**, **Backend Development**, **Full-Stack Applications**, and **Technical Discussions**.
+Interested in **Open Source**, **AI & Machine Learning**, **Backend Development**, **Full-Stack Development**, and **Technical Discussions**.
 
 📧 **Reach me at:** **[utkarshm848@gmail.com](mailto:utkarshm848@gmail.com)**
 
