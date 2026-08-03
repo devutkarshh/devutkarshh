@@ -115,6 +115,16 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/devutkarshh/devutkarshh/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ## ♻️ EcoByte — Smart E-Waste Management System
