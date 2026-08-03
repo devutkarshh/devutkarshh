@@ -79,7 +79,7 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <div align="center">
 
@@ -88,6 +88,28 @@ I enjoy solving real-world problems through software engineering, machine learni
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devutkarshh&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Summary
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+
+<br><br>
+
+<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+
+<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+
+<br><br>
+
+<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+
+<img width="49%" src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 </div>
 
