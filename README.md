@@ -92,6 +92,17 @@ I enjoy solving real-world problems through software engineering, machine learni
 </div>
 
 ---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devutkarshh&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ## ♻️ EcoByte — Smart E-Waste Management System
