@@ -96,105 +96,126 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 ## ♻️ EcoByte — Smart E-Waste Management System
 
-AI-powered platform for managing, tracking, and recycling electronic waste across institutions.
+A centralized platform for managing, tracking, and recycling electronic waste through intelligent analytics and machine learning.
 
-**Highlights**
+### ✨ Highlights
 
-- 📦 QR code–based asset tracking
-- 🤖 ML-powered e-waste price prediction
-- 📊 Interactive analytics dashboard
-- 📄 Compliance reporting and inventory management
+- QR code–based asset tracking
+- ML-powered e-waste price prediction
+- Interactive analytics dashboard
+- Compliance reporting and management
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `Python` • `Flask` • `SQLite` • `Scikit-Learn` • `Chart.js`
 
+<div align="left">
+
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/eco-byte)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://eco-byte.onrender.com/)
+
+</div>
 
 ---
 
 ## 🎨 DrawSync — Collaborative Drawing Application
 
-A real-time collaborative whiteboard built with modern web technologies.
+A collaborative whiteboard application supporting multiple users with real-time synchronization over WebSockets.
 
-**Highlights**
+### ✨ Highlights
 
-- 🎨 Infinite collaborative canvas
-- ⚡ Real-time synchronization
-- 🔍 Zoom & pan support
-- 🌐 WebSocket-based communication
+- Infinite canvas
+- Real-time collaboration
+- Zoom & pan
+- WebSocket-based synchronization
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `Next.js` • `TypeScript` • `TurboRepo` • `WebSockets`
 
+<div align="left">
+
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/DrawSync)
+
+</div>
 
 ---
 
 ## 🔋 Battery Remaining Useful Life Prediction
 
-Machine learning pipeline for predicting lithium-ion battery Remaining Useful Life using NASA battery datasets.
+Machine learning project for predicting the Remaining Useful Life (RUL) of lithium-ion batteries using NASA battery datasets.
 
-> **Contribution:** Worked on the Battery RUL prediction module by engineering features, training machine learning models, evaluating model performance, and analyzing battery degradation trends as part of a team project.
+> **Team Project**  
+> **My Contribution:** Developed the Battery RUL prediction pipeline, implemented machine learning models, performed feature engineering, model evaluation, and performance analysis.
 
-**Highlights**
+### ✨ Highlights
 
-- 📈 Random Forest Regression
-- ⚙️ Feature Engineering
-- 📊 Model Comparison
-- 🔬 Battery Degradation Analysis
+- Random Forest regression
+- Feature engineering
+- Model comparison
+- Battery degradation analysis
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `Python` • `Scikit-Learn` • `NumPy` • `Pandas`
 
+<div align="left">
+
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/battery-rul-prediction)
+
+</div>
 
 ---
 
 ## 🧠 MetaCausalML
 
-Experimentation-as-a-Service platform for uplift modeling and causal inference.
+Machine learning project exploring causal inference and meta-learning techniques for predictive modeling.
 
-> **Contribution:** Implemented Meta Learners (S-Learner, T-Learner, X-Learner and R-Learner), built machine learning pipelines, and contributed to experimentation workflows as part of a team project.
+> **Team Project**  
+> **My Contribution:** Worked on meta-learning models, machine learning algorithms, experimentation, and performance evaluation.
 
-**Highlights**
+### ✨ Highlights
 
-- 🧠 Meta Learners
-- 📊 Causal Inference
-- 🤖 Machine Learning Pipelines
-- 📈 Treatment Effect Estimation
+- Meta-learning approaches
+- Machine learning experimentation
+- Model comparison
+- Performance evaluation
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Python` • `Scikit-Learn` • `Machine Learning`
+`Python` • `Scikit-Learn` • `Pandas`
+
+<div align="left">
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/MetaCausalML)
+
+</div>
 
 ---
 
 ## 💰 Personal Budget Tracker
 
-A web application for managing expenses, tracking budgets, and visualizing spending habits.
+A web application for managing personal finances with expense tracking, budget management, and interactive visualizations.
 
-**Highlights**
+### ✨ Highlights
 
-- 💳 Expense Tracking
-- 📈 Budget Analytics
-- 📊 Interactive Dashboard
-- 📱 Responsive Design
+- Expense tracking
+- Budget management
+- Interactive charts
+- Responsive interface
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 `Next.js` • `JavaScript` • `Chart.js`
 
+<div align="left">
+
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/PersonalBudgetTracker)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://personalbudgettracker.vercel.app/)
 
----
-
+</div>
 # 💡 Currently Learning
 
 <div align="center">
