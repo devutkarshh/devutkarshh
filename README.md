@@ -99,6 +99,10 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 <img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+
 </div>
 
 ---
