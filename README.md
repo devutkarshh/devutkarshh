@@ -8,8 +8,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/devutkarshh?style=for-the-badge&logo=github&color=00D4FF&labelColor=1a1a1a"/>
-
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=for-the-badge&color=00D4FF"/>
 
 <img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=for-the-badge&color=00C853&labelColor=1a1a1a"/>
@@ -273,7 +271,7 @@ A web application for managing personal finances with expense tracking, budget m
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devutkarshmishra)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devutkarshh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/devutkarshmishra)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devutkarshh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkarshm14/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshm848@gmail.com)
