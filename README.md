@@ -97,13 +97,13 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/devutkarshh/devutkarshh/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution
 
 <div align="center">
 
