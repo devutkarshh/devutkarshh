@@ -119,7 +119,7 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devutkarshh&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devutkarshh&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 
 </div>
 
