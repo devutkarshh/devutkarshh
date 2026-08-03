@@ -272,7 +272,7 @@ A web application for managing personal finances with expense tracking, budget m
 <div align="center">
 
 <a href="https://www.linkedin.com/in/devutkarshmishra">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devutkarshh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkarshm14/)
