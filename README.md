@@ -1,126 +1,210 @@
-<h1 align="center">Hi there, I'm Utkarsh Mishra 👋</h1>
-<h3 align="center">SDE | Java Developer | AI/ML Enthusiast</h3>
+# <h1 align="center">Hi there, I'm Utkarsh Mishra 👋</h1>
+
+<h3 align="center">Java Developer • Full-Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  B.Tech CSE (AI & ML) @ Heritage Institute of Technology, Kolkata<br>
-  Building scalable systems & production-ready AI applications
+  B.Tech in Computer Science (AI & ML) • Heritage Institute of Technology, Kolkata
+</p>
+
+<p align="center">
+  Building full-stack applications, backend systems, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=devutkarshh">
+    <img src="https://komarev.com/ghpvc/?username=devutkarshh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 **B.Tech CSE (AI & ML)** at Heritage Institute of Technology, Kolkata
-- 💻 Specializing in **Java**, **DSA**, **Full Stack Development**, and **Machine Learning**
-- 🤖 Passionate about building **production-ready AI applications**
-- 📚 Currently preparing for placement season
-- 🌱 Focused on **System Design** and **Backend Engineering**
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Core
-`Java` `Python` `C` `SQL` `JavaScript` `HTML` `CSS`
-
-### Backend & Databases
-`PostgreSQL` `MongoDB`
-
-### AI/ML & Data Science
-`TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `NumPy`
-
-### Tools & Cloud
-`Git` `GitHub` `AWS` `Linux`
-
----
----
-
-## 💌 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/devutkarshmishra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/devutkarshh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/utkarshm14/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:utkarshm848@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devutkarshh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutkarshh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
----
-## 🎯 Featured Projects
-
-### 💰 EcoByte - Smart E-Waste Management System
-**Centralized platform for managing, tracking, and recycling e-waste in institutions.**
-- Built with: Python, Flask, SQLite, Scikit-Learn, Chart.js
-- Features: QR code tracking, ML-based price prediction, compliance reporting, analytics dashboard
-- 🌍 Live: [eco-byte.onrender.com](https://eco-byte.onrender.com/)
-- **Tech Stack**: Backend (Flask + SQLite) | Frontend (Vanilla JS + Chart.js) | ML (Random Forest)
-
-### 🔋 Battery RUL Prediction - Thermal & Stress Analysis
-**Analytical derivation of battery degradation using thermal stress physics.**
-- Built with: Python, Scikit-Learn, NumPy, Pandas
-- Deep-dived into: Heat generation models, radial temperature profiles, tangential thermal stress, SOH correlation
-- Delivered complete mathematical framework with visualizations
-- **Tech Stack**: Python | ML (Random Forest Regressor) | Data Analysis | Visualization
-
-### 🎨 DrawSync - Collaborative Drawing Application
-**Real-time collaborative drawing canvas with panning and zooming.**
-- Monorepo architecture with pnpm workspaces & Turbo
-- Built with: TypeScript, Next.js, WebSockets
-- Features: Pencil tool, panning, zooming, real-time sync
-- **Tech Stack**: Next.js | TypeScript | Turbo | WebSockets
-
-### 💳 Personal Budget Tracker
-**Full-stack budget management application with expense tracking and analytics.**
-- 📊 Live: [personalbudgettracker.vercel.app](https://personalbudgettracker.vercel.app/)
-- Features: Expense categorization, monthly tracking, visual analytics
-- **Tech Stack**: Frontend (React/Next.js) | Backend | Database
-
----
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devutkarshh&theme=dark&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+* 🎓 B.Tech in **Computer Science (AI & ML)** at Heritage Institute of Technology, Kolkata
+* 💻 Interested in **Java**, **Data Structures & Algorithms**, **Backend Development**, and **Machine Learning**
+* 🌱 Currently learning **System Design**, **Backend Engineering**, and **Cloud Technologies**
+* 🤖 Passionate about building practical AI-powered applications and solving real-world problems
+* 🚀 Always exploring new technologies and building projects
 
 ---
 
-## 🎯 Current Focus
+# 🛠 Tech Stack
 
-- 🚀 Building production-ready AI applications and scalable backend systems
-- 📚 Strengthening: System Design, DSA, Cloud Computing, Advanced ML
-- 💻 Exploring: Agentic AI, Modern Database architectures, Full-stack development
-- 🔍 Always learning and shipping real-world projects
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Libraries**
+
+`Scikit-Learn` • `NumPy` • `Pandas`
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws" />
+</p>
 
 ---
 
-## 💬 Let's Connect!
+# 📊 GitHub Statistics
 
-I'm always open to discussing **software engineering, AI/ML, system design, and building impactful products**.
+<p align="center">
 
-<div align="center">
-  <p><b>Interested in:</b> Collaboration • Open-source • Technical discussions • Project ideas</p>
-  <p>📧 Reach out: <a href="mailto:utkarshm848@gmail.com">utkarshm848@gmail.com</a></p>
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devutkarshh&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutkarshh&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=devutkarshh&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
-  <i>⭐ If you find my work interesting, consider starring the repos!</i>
-</div>
+# 🚀 Featured Projects
+
+## ♻️ EcoByte — Smart E-Waste Management System
+
+A centralized platform for managing, tracking, and recycling electronic waste within institutions.
+
+**Highlights**
+
+* QR-code based asset tracking
+* ML-powered price prediction
+* Compliance reporting
+* Interactive analytics dashboard
+
+**Tech Stack**
+
+`Python` • `Flask` • `SQLite` • `Scikit-Learn` • `Chart.js`
+
+🌍 **Live Demo:** https://eco-byte.onrender.com/
+
+---
+
+## 🎨 DrawSync — Real-Time Collaborative Whiteboard
+
+A collaborative drawing application supporting multiple users with live synchronization.
+
+**Highlights**
+
+* Real-time collaboration
+* WebSocket communication
+* Infinite canvas
+* Zoom & pan support
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `TurboRepo` • `WebSockets`
+
+---
+
+## 🔋 Battery Remaining Useful Life Prediction
+
+Machine learning pipeline for predicting lithium-ion battery Remaining Useful Life using NASA datasets.
+
+**Highlights**
+
+* Multiple regression models
+* Feature engineering
+* Model comparison & evaluation
+* Battery degradation analysis
+
+**Tech Stack**
+
+`Python` • `Scikit-Learn` • `NumPy` • `Pandas`
+
+---
+
+## 💰 Personal Budget Tracker
+
+A web application for tracking expenses, managing budgets, and visualizing spending.
+
+**Highlights**
+
+* Expense management
+* Monthly analytics
+* Responsive dashboard
+
+🌍 **Live Demo:** https://personalbudgettracker.vercel.app/
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devutkarshh&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Currently Exploring
+
+* ☕ Advanced Java
+* 🧩 Data Structures & Algorithms
+* 🏗 System Design
+* ⚙ Backend Development
+* 🤖 AI & Machine Learning
+* ☁ Cloud Technologies
+* 🌍 Open Source Contributions
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devutkarshmishra/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/devutkarshh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/devutkarshh">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/utkarshm14/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:utkarshm848@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💬 Let's Build Something Awesome!
+
+I'm always open to collaborating on **Java**, **Full-Stack Development**, **Backend Systems**, **Machine Learning**, and **Open Source** projects.
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
