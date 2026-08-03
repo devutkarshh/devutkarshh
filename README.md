@@ -198,6 +198,8 @@ A web application for managing expenses, tracking budgets, and visualizing spend
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white\&labelColor=1a1a1a)](https://leetcode.com/devutkarshh)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white\&labelColor=1a1a1a)](https://www.instagram.com/utkarshm14/)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=1a1a1a)](mailto:utkarshm848@gmail.com)
 
 </div>
@@ -222,6 +224,6 @@ If you enjoy my projects, consider giving them a ⭐.
 
 ---
 
-<sub>Made with 💻 by Utkarsh • Last Updated: August 2026</sub>
+<sub>It's not the hope that kills you , its the lack of hope that does it . • Last Updated: August 2026</sub>
 
 </div>
