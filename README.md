@@ -5,9 +5,7 @@
 ### Java Developer • Backend Developer • AI/ML Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Developer;AI%2FML+Developer;Full-Stack+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"/>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=for-the-badge&color=00D4FF"/>
 
 <img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=for-the-badge&color=00C853&labelColor=1a1a1a"/>
@@ -295,17 +293,6 @@ A web application for managing personal finances with expense tracking, budget m
 
 ---
 
-# 🏆 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/devutkarshh">
-    <img src="https://leetcard.jacoblin.cool/devutkarshh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
