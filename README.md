@@ -6,17 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Developer;AI%2FML+Developer;Full-Stack+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
+
+<img src="https://img.shields.io/github/followers/devutkarshh?style=for-the-badge&logo=github&color=00D4FF&labelColor=1a1a1a"/>
+
+<img src="https://komarev.com/ghpvc/?username=devutkarshh&style=for-the-badge&color=00D4FF"/>
+
+<img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=for-the-badge&color=00C853&labelColor=1a1a1a"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/📍-Kolkata,%20India-00D4FF?style=flat-square&labelColor=1a1a1a"/>
-
-<img src="https://komarev.com/ghpvc/?username=devutkarshh&style=flat-square&color=00D4FF"/>
-
-<br>
-
-<img src="https://img.shields.io/github/followers/devutkarshh?style=flat-square&logo=github&label=Followers&color=00D4FF"/>
-
-<img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=flat-square&label=Profile%20Updated&color=00C853"/>
 
 </div>
 
