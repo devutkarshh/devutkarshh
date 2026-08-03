@@ -83,12 +83,6 @@ I enjoy solving real-world problems through software engineering, machine learni
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devutkarshh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutkarshh&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=devutkarshh&theme=github-dark&hide_border=true"/>
 
 <br><br>
