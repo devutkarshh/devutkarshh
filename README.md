@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Utkarsh Mishra
+# 👋 Hi, I'm Utkarsh Mishra
 
 ### Java Developer • Backend Developer • AI/ML Developer
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍-Kolkata%2C+India-00D4FF?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/📍-Kolkata,%20India-00D4FF?style=flat-square&labelColor=1a1a1a"/>
 
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=flat-square&color=00D4FF"/>
 
