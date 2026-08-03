@@ -295,6 +295,18 @@ A web application for managing personal finances with expense tracking, budget m
 
 ---
 
+# 🏆 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/devutkarshh">
+    <img src="https://leetcard.jacoblin.cool/devutkarshh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🤝 Open to Collaboration
