@@ -5,7 +5,23 @@
 ### Java Developer • Backend Developer • AI/ML Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Developer;AI%2FML+Developer;Full-Stack+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"/>
+
 <br><br>
+
+<a href="https://utkarsh-beryl.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐-Portfolio-00C853?style=for-the-badge&labelColor=1a1a1a"/>
+</a>
+
+<a href="https://github.com/devutkarshh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-devutkarshh-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:utkarshm848@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=for-the-badge&color=00D4FF"/>
 
 <img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=for-the-badge&color=00C853&labelColor=1a1a1a"/>
@@ -24,19 +40,22 @@ Computer Science (AI & ML) student passionate about building **backend systems**
 
 I enjoy transforming ideas into practical software, solving real-world problems through modern software engineering, machine learning, and scalable backend development while continuously learning new technologies.
 
+🌐 **Portfolio:** https://utkarsh-beryl.vercel.app/
+
 ### 🔬 Focus Areas
 
-- ☕ **Java Development** — Object-Oriented Programming, backend development, and scalable applications
-- 🏗️ **Backend Engineering** — REST APIs, authentication, databases, and system architecture
-- 🤖 **AI & Machine Learning** — Intelligent applications, predictive analytics, and computer vision
-- 🌐 **Full-Stack Development** — React, Next.js, Flask, and Node.js
-- 💻 **Data Structures & Algorithms** — Problem solving and competitive programming
-- ☁️ **System Design** — Building scalable and maintainable software systems
-- 🌍 **Open Source** — Learning through collaboration and contributing to the developer community
+* ☕ **Java Development** — Object-Oriented Programming, backend development, and scalable applications
+* 🏗️ **Backend Engineering** — REST APIs, authentication, databases, and system architecture
+* 🤖 **AI & Machine Learning** — Intelligent applications, predictive analytics, and computer vision
+* 🌐 **Full-Stack Development** — React, Next.js, Flask, and Node.js
+* 💻 **Data Structures & Algorithms** — Problem solving and competitive programming
+* ☁️ **System Design** — Building scalable and maintainable software systems
+* 🌍 **Open Source** — Learning through collaboration and contributing to the developer community
 
 ---
 
 # 🛠️ Tech Stack
+
 <div align="center">
 
 ### 💻 Languages
@@ -77,9 +96,7 @@ I enjoy transforming ideas into practical software, solving real-world problems 
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
 </p>
 
 </div>
@@ -126,124 +143,57 @@ I enjoy transforming ideas into practical software, solving real-world problems 
 
 A centralized platform for managing, tracking, and recycling electronic waste through intelligent analytics and machine learning.
 
-### ✨ Highlights
+**Tech Stack:** `Python` • `Flask` • `SQLite` • `Scikit-Learn` • `Chart.js`
 
-- QR code–based asset tracking
-- ML-powered e-waste price prediction
-- Interactive analytics dashboard
-- Compliance reporting and management
-
-### 🛠️ Tech Stack
-
-`Python` • `Flask` • `SQLite` • `Scikit-Learn` • `Chart.js`
-
-<div align="left">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/eco-byte)
-
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/devutkarshh/eco-byte)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://eco-byte.onrender.com/)
-
-</div>
 
 ---
 
 ## 🎨 DrawSync — Collaborative Drawing Application
 
-A collaborative whiteboard application supporting multiple users with real-time synchronization over WebSockets.
+Real-time collaborative whiteboard built using WebSockets and TurboRepo.
 
-### ✨ Highlights
+**Tech Stack:** `Next.js` • `TypeScript` • `TurboRepo` • `WebSockets`
 
-- Infinite canvas
-- Real-time collaboration
-- Zoom & pan
-- WebSocket-based synchronization
-
-### 🛠️ Tech Stack
-
-`Next.js` • `TypeScript` • `TurboRepo` • `WebSockets`
-
-<div align="left">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/DrawSync)
-
-</div>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/devutkarshh/DrawSync)
 
 ---
 
 ## 🔋 Battery Remaining Useful Life Prediction
 
-Machine learning project for predicting the Remaining Useful Life (RUL) of lithium-ion batteries using NASA battery datasets.
+Machine learning project for predicting lithium-ion battery Remaining Useful Life (RUL).
 
-> **Team Project**  
-> **My Contribution:** Developed the Battery RUL prediction pipeline, implemented machine learning models, performed feature engineering, model evaluation, and performance analysis.
+> **Team Project**
+> **My Contribution:** Developed the prediction pipeline, feature engineering, model evaluation, and performance analysis.
 
-### ✨ Highlights
+**Tech Stack:** `Python` • `Scikit-Learn` • `NumPy` • `Pandas`
 
-- Random Forest regression
-- Feature engineering
-- Model comparison
-- Battery degradation analysis
-
-### 🛠️ Tech Stack
-
-`Python` • `Scikit-Learn` • `NumPy` • `Pandas`
-
-<div align="left">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/battery-rul-prediction)
-
-</div>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/devutkarshh/battery-rul-prediction)
 
 ---
 
 ## 🧠 MetaCausalML
 
-Machine learning project exploring causal inference and meta-learning techniques for predictive modeling.
+Machine learning project exploring causal inference and meta-learning techniques.
 
-> **Team Project**  
-> **My Contribution:** Worked on meta-learning models, machine learning algorithms, experimentation, and performance evaluation.
+> **Team Project**
+> **My Contribution:** Built and evaluated meta-learning models.
 
-### ✨ Highlights
+**Tech Stack:** `Python` • `Scikit-Learn` • `Pandas`
 
-- Meta-learning approaches
-- Machine learning experimentation
-- Model comparison
-- Performance evaluation
-
-### 🛠️ Tech Stack
-
-`Python` • `Scikit-Learn` • `Pandas`
-
-<div align="left">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/MetaCausalML)
-
-</div>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/devutkarshh/MetaCausalML)
 
 ---
 
 ## 💰 Personal Budget Tracker
 
-A web application for managing personal finances with expense tracking, budget management, and interactive visualizations.
+Responsive web application for tracking personal expenses and budgets.
 
-### ✨ Highlights
+**Tech Stack:** `Next.js` • `JavaScript` • `Chart.js`
 
-- Expense tracking
-- Budget management
-- Interactive charts
-- Responsive interface
-
-### 🛠️ Tech Stack
-
-`Next.js` • `JavaScript` • `Chart.js`
-
-<div align="left">
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/devutkarshh/PersonalBudgetTracker)
-
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/devutkarshh/PersonalBudgetTracker)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://personalbudgettracker.vercel.app/)
-
-</div>
 
 ---
 
@@ -252,16 +202,12 @@ A web application for managing personal finances with expense tracking, budget m
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────┐
-│ 🚀 Current Learning Journey             │
-├─────────────────────────────────────────┤
-│ ✓ Java Backend Development              │
-│ ✓ AI & Machine Learning                 │
-│ ✓ Full-Stack Development                │
-│ ✓ System Design                         │
-│ ✓ Data Structures & Algorithms          │
-│ ✓ Open Source Contributions             │
-└─────────────────────────────────────────┘
+Java Backend Development
+AI & Machine Learning
+Full-Stack Development
+System Design
+Data Structures & Algorithms
+Open Source
 ```
 
 </div>
@@ -272,26 +218,29 @@ A web application for managing personal finances with expense tracking, budget m
 
 <div align="center">
 
+<a href="https://utkarsh-beryl.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>&nbsp;
+
 <a href="https://www.linkedin.com/in/devutkarshmishra" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>&nbsp;
 
 <a href="https://leetcode.com/devutkarshh" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
-</a>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>&nbsp;
 
 <a href="https://www.instagram.com/utkarshm14/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
-</a>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>&nbsp;
 
 <a href="mailto:utkarshm848@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -301,9 +250,9 @@ I'm always interested in collaborating on projects related to:
 
 **☕ Java Development • 🤖 AI & Machine Learning • 🌐 Full-Stack Development • 🏗️ Backend Engineering • 🚀 Open Source**
 
-Feel free to connect if you'd like to collaborate, discuss ideas, or build something impactful.
+🌐 **Portfolio:** https://utkarsh-beryl.vercel.app/
 
-📧 **Email:** **utkarshm848@gmail.com**
+📧 **Email:** **[utkarshm848@gmail.com](mailto:utkarshm848@gmail.com)**
 
 ---
 
