@@ -24,8 +24,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=devutkarshh&style=for-the-badge&color=00D4FF"/>
 
-<img src="https://img.shields.io/github/last-commit/devutkarshh/devutkarshh?style=for-the-badge&color=00C853&labelColor=1a1a1a"/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/📍-Kolkata,%20India-00D4FF?style=flat-square&labelColor=1a1a1a"/>
