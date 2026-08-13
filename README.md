@@ -246,7 +246,7 @@ Open Source
 
 I'm always interested in collaborating on projects related to:
 
-**☕ Java Development • 🤖 AI & Machine Learning • 🌐 Full-Stack Development • 🏗️ Backend Engineering • 🚀 Open Source**
+**☕ Java Development • 🤖 AI & Machine Learning • 🌐 Full-Stack Development • 🏗️ Backend Engineering**
 
 🌐 **Portfolio:** https://utkarsh-beryl.vercel.app/
 
